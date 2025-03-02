@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pymupdf
+speechrecognition
+pydub
+requests
+pytest
+simpleaudio

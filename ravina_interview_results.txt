@@ -1,0 +1,33 @@
+Candidate Name: ravina
+Extracted Skills: Python, TensorFlow, PyTorch, Pandas, Keras, Scikit-learn, Seaborn, PySpark, Hadoop, HiveQL, Spark, SQL, R, Power BI, Tableau, MS Excel, MS PowerPoint, MATLAB, Statistical Analysis, Data Mining, Machine Learning, Natural Language Processing,  Data Storytelling, Analytical Thinking, Teamwork,  Task Management,  Geospatial Analysis, XGBoost,  FinBERT,  RAG Model development,  Resume Parsing,  Data Preprocessing,  Image Augmentation,  CNNs,  Streamlit, PyMuPDF, Gemini Pro API, ElevenLabs API, SpeechRecognition,  DBMS, Generative AI
+
+Question 1: Describe your experience developing the RAG model for clinical trial data.
+Answer 1: Could not understand.
+
+Question 2: Explain your approach to geospatial analysis in the Cognifyz internship.
+Answer 2: hello hello
+
+Question 3: How did you improve the accuracy of your FinBERT sentiment analysis model?
+Answer 3: of FM bird sentiment analysis model please tell me
+
+Question 4: Walk me through your data preprocessing techniques for the traffic sign classifier.
+Answer 4: through
+
+Question 5: Explain the architecture of your AI resume parsing assistant, including APIs used.
+Answer 5: fracture of your resume passing
+
+Question 6: How did you handle potential errors in your resume parsing assistant?
+Answer 6: Could not understand.
+
+Question 7: Discuss the challenges you faced in implementing the Gemini Pro API.
+Answer 7: you faced in implementing the Gemini
+
+Question 8: Compare and contrast XGBoost and FinBERT in terms of their applications.
+Answer 8: Could not understand.
+
+Question 9: Describe a situation where your teamwork skills were crucial to project success.
+Answer 9: Could not understand.
+
+Question 10: Explain how you used data storytelling to present your findings in a previous project.
+Answer 10: data story telling to present you findings in a previous
+
